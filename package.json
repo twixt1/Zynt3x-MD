@@ -4,12 +4,6 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "@distube/ytdl-core": "^4.11.17",
-    "@hapi/boom": "^10.0.1",
-    "@juzi/whatsapp-web.js": "^1.21.6",
-    "@kyometori/yt-downloader": "^1.0.4",
-    "@sl-code-lords/youtube-dl": "^1.0.4",
-    "@whiskeysockets/baileys": "^6.4.0",
     "ajv": "^6.12.6",
     "asn1": "^0.2.6",
     "assert-plus": "^1.0.0",
@@ -74,18 +68,7 @@
     "verror": "^1.10.0",
     "whatsapp-web.js": "^1.22.1",
     "wwebjs-mongo": "^1.1.0",
-    "y2mate-dl": "^1.0.4",
-    "youtube-dl-exec": "^2.4.12",
-    "youtube-stream-url": "^2.4.1",
-    "youtubei.js": "^6.4.0",
-    "yt-converter": "^1.3.4",
-    "yt-gets": "^2.1.0",
-    "yt-stream": "^1.4.8",
-    "ytdl": "^1.4.1",
     "ytdl-core": "^4.11.5",
-    "ytdl-mp3": "^3.4.0",
-    "ytmp3-scrap": "^1.0.0",
-    "yutubdl.js": "^0.1.0"
   },
   "scripts": {
     "test": "index.js"
