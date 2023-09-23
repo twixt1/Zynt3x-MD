@@ -68,7 +68,7 @@
     "verror": "^1.10.0",
     "whatsapp-web.js": "^1.22.1",
     "wwebjs-mongo": "^1.1.0",
-    "ytdl-core": "^4.11.5",
+    "ytdl-core": "^4.11.5"
   },
   "scripts": {
     "test": "index.js"
